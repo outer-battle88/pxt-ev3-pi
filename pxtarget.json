@@ -1,0 +1,13 @@
+{
+  "name": "ev3-pi-extension",
+  "description": "EV3 extension to receive STT commands from Raspberry Pi",
+  "targetVersions": {
+    "pxt": "9.3.19",
+    "target": "1.4.41"
+  },
+  "buildEngine": "local",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ]
+}
