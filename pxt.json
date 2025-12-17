@@ -2,6 +2,7 @@
     "name": "ev3-pi-extension",
     "version": "0.0.0",
     "description": "EV3 extension to receive STT commands from Raspberry Pi",
+    "license": "MIT",
     "dependencies": {
         "ev3": "*"
     },
@@ -17,6 +18,5 @@
     "supportedTargets": [
         "ev3"
     ],
-    "preferredEditor": "blocksprj",
-    "license": "MIT"
+    "preferredEditor": "blocksprj"
 }
